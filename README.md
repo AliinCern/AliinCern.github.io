@@ -8,7 +8,7 @@
  
 _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHemoglobin&psig=AOvVaw1TdBCtkkIlAFb3ZyrUgw6T&ust=1629451535043000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIj5mJTivPICFQAAAAAdAAAAABAD)
+[Link](url) and ![Image](https://en.wikipedia.org/wiki/Hemoglobin#/media/File:1GZX_Haemoglobin.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
