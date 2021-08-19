@@ -1,4 +1,4 @@
-# **Let Look closer to ```Protein```** 
+# **Lets Look closer to a ```Protein```** 
 
 **There are three types of forces occur on protein's medium:**
 1. Electrostatic Force.
